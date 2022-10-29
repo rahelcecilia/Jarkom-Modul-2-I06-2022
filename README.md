@@ -43,6 +43,8 @@
 
 ## 7. After configuring the server, then we need to configure the Web Server. First, with www.wise.yyy.com web server. Firstly, Loid needs a web server with DocumentRoot at /var/www/wise.yyy.com 
 
+![](https://i.ibb.co/WPDg8Lc/7.jpg)
+
 ## 8. After that, Loid also needs that url www.wise.yyy.com/index.php/home can be www.wise.yyy.com/home 
 
 ## 9. Next, on www.eden.wise.yyy.com subdomain, Loid needs an asset storage with DocumentRoot at /var/www/eden.wise.yyy.com 
