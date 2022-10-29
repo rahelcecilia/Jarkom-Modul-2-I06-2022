@@ -13,14 +13,18 @@
 Run the script for WISE
 ![](https://i.ibb.co/235FZqG/1-1.jpg)
 
+
 Run the script for SSS
 ![](https://i.ibb.co/1d4NNb4/1-2.jpg)
+
 
 Run the script for Garden
 ![](https://i.ibb.co/X2zbSdh/1-3.jpg)
 
+
 Run the script for Berlint
 ![](https://i.ibb.co/Qf7KCTC/1-4.jpg)
+
 
 Run the script for Eden
 ![](https://i.ibb.co/xhvdR0L/1-5.jpg)
