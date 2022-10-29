@@ -39,7 +39,7 @@
 
 ## 6. For more specific information about Operation Strix, create a subdomain via Berlint with access strix.operation.wise.yyy.com with alias www.strix.operation.wise.yyy.com that leads to Eden 
 
-![](https://i.ibb.co/3FfTJsG/5-1.jpg)
+![](https://i.ibb.co/XY3zb4h/6.jpg)
 
 ## 7. After configuring the server, then we need to configure the Web Server. First, with www.wise.yyy.com web server. Firstly, Loid needs a web server with DocumentRoot at /var/www/wise.yyy.com 
 
