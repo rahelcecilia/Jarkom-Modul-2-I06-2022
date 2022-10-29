@@ -4,6 +4,8 @@
 2. Denta Bramasta Hidayat - 5025201116
 3. Rahel Cecilia Purba - 5025201155 </strong>
 
+
+
 ## 1. To make it easier to get information about the mission from Handler, help Loid create the main website by accessing wise.yyy.com with alias www.wise.yyy.com on the wise folder.
 
 ## 2. After that he also wants to create a subdomain eden.wise.yyy.com with alias www.eden.wise.yyy.com whose DNS is set on WISE and leads to Eden 
