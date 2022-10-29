@@ -8,6 +8,18 @@
 
 ## 1. To make it easier to get information about the mission from Handler, help Loid create the main website by accessing wise.yyy.com with alias www.wise.yyy.com on the wise folder.
 
+![](https://i.ibb.co/tctFB8x/1.jpg)
+
+![](https://i.ibb.co/235FZqG/1-1.jpg)
+
+![](https://i.ibb.co/1d4NNb4/1-2.jpg)
+
+![](https://i.ibb.co/X2zbSdh/1-3.jpg)
+
+![](https://i.ibb.co/Qf7KCTC/1-4.jpg)
+
+![](https://i.ibb.co/xhvdR0L/1-5.jpg)
+
 ## 2. After that he also wants to create a subdomain eden.wise.yyy.com with alias www.eden.wise.yyy.com whose DNS is set on WISE and leads to Eden 
 
 ## 3. Also create a reverse domain for the main domain 
