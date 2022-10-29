@@ -19,6 +19,8 @@ WISE etc
 echo "nameserver 192.168.122.1" > /etc/resolv.conf
 ```
 
+**RESULT**
+
 ![](https://i.ibb.co/tctFB8x/1.jpg)
 
 ![](https://i.ibb.co/235FZqG/1-1.jpg)
