@@ -30,7 +30,7 @@
 
 ## 4. To stay in touch if the WISE server has some problem, make Berlint also as the DNS Slave for the main domain 
 
-![](https://i.ibb.co/5LgVdPD/3.jpg)
+![](https://i.ibb.co/9qwVdLn/4.jpg)
 
 ## 5. Because there is a lot of information from Handler, make a special subdomain for operations operation.wise.yyy.com with alias www.operation.wise.yyy.com delegated from WISE to Berlint with IP leads to Eden on the folder operation 
 
