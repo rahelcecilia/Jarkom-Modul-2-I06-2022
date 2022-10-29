@@ -22,7 +22,11 @@
 
 ## 2. After that he also wants to create a subdomain eden.wise.yyy.com with alias www.eden.wise.yyy.com whose DNS is set on WISE and leads to Eden 
 
+![](https://i.ibb.co/6gzjWGh/2.jpg)
+
 ## 3. Also create a reverse domain for the main domain 
+
+![](https://i.ibb.co/6gzjWGh/2.jpg)
 
 ## 4. To stay in touch if the WISE server has some problem, make Berlint also as the DNS Slave for the main domain 
 
